@@ -1,0 +1,4 @@
+id:CLO000000#name:sando#price:299.00#qty:198
+id:CLO000001#name:shirt#price:499.00#qty:100
+id:PAI000000#name:boysen#price:399.00#qty:198
+id:TOY000000#name:nerf#price:399.00#qty:199

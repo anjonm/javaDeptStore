@@ -1,0 +1,4 @@
+package customers;
+
+class CustomerInfo {
+}
